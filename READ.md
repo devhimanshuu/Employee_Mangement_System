@@ -120,7 +120,7 @@ employee-management-system/
 ├── server.js           # Express server and API routes
 ├── server.test.js      # Backend test suite
 ├── package.json        # Project dependencies
-├── employees.db        # SQLite database (auto-created)
+├── employees.db        # SQLite database 
 ├── public/
 │   └── index.html      # Frontend application
 └── README.md          # Project documentation
